@@ -9,11 +9,14 @@ This repository contains the code, data, and models used in the paper.
 - model: trained ML model
 - figures: figures used in paper
 
-## How to use
+## How to Use
 
-1. Open notebook/Main_Code.ipynb
-2. Run all cells
-3. Ensure datasets are in data folder
+1. Download the Jupyter notebook (`Main_Code.ipynb`) and all dataset files from this repository.
+2. Place the notebook and the datasets in the same working directory on your computer.
+3. Launch Jupyter Notebook or JupyterLab.
+4. Open `Main_Code.ipynb`.
+5. Verify that the file paths in the notebook match the locations of the dataset files.
+6. Run all cells sequentially to reproduce the results presented in the paper.
 
 ## Citation
 
